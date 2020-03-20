@@ -7,4 +7,4 @@ SETUP
 
 2- Donwload hbaManager.py file and configure parameters on it.
 
-3- Then Run program "python hbaManager.py" and give dbname, username, ip and auth. type
+3- Then Run program "python hbaManager.py [dbanem] [username] [IP] [Auth. Mehtod]" and give dbname, username, ip and auth. type
